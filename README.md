@@ -24,11 +24,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </picture>
 
-</a>
-<a href="https://github.com/rafaelris/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelris&repo=convoychat" />
-</a>
-
 ![Snake animation](https://github.com/RafaelRiS/RafaelRiS/blob/main/dist/github-contribution-grid-snake.svg)
 
 
