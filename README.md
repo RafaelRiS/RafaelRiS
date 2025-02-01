@@ -13,7 +13,7 @@
 <a href="https://github.com/rafaelris/github-readme-stats">
   <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelris" />
     <a href="https://github.com/rafaelris/convoychat">
-  <img height=190 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelris&layout=compact&langs_count=8&card_width=320" />
+  <img height=180 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelris&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <div style="display: inline_block"><br>
