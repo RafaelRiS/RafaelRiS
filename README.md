@@ -18,9 +18,9 @@
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=rafaelris&show_icons=true"
     media="(prefers-color-scheme: one_dark_pro), (prefers-color-scheme: one_dark_pro)"
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelris&hide_progress=true)
   />
   <img src="https://github-readme-stats.vercel.app/api?username=rafaelris&show_icons=true" />
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelris&hide_progress=true)
 </picture>
 
 ![Snake animation](https://github.com/RafaelRiS/RafaelRiS/blob/main/dist/github-contribution-grid-snake.svg)
