@@ -1,11 +1,5 @@
 ### Olá/ Hi there 👋
 
-- 🌱 Atualmente estou estudando na UNIVESP/ I am currently studying at UNIVESP ...
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
-</div>
-
 <br/>
 
 - 🌱 Meu nome é Rafael, bem-vindo(a) ao meu perfil GitHub/ My name is Rafael, welcome to my GitHub profile. 
