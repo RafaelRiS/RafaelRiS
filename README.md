@@ -1,8 +1,6 @@
 ### Olá/ Hi there 👋
 
-- 🌱 Atualmente estou estudando/ I’m currently studying ...
-
--->
+- 🌱 Atualmente estou estudando na UNIVESP/ I am currently studying at UNIVESP ...
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
