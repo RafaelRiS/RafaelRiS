@@ -25,3 +25,5 @@
     <img src="https://profile-counter.glitch.me/RafaelRiS/count.svg"/>
   </div> 
 </p>
+
+Credit: [Niefee](https://github.com/Niefee) & [Rafaballerini](https://github.com/rafaballerini).
