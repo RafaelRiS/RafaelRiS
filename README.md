@@ -17,8 +17,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelris&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelris&hide_progress=true)
-
 ![Snake animation](https://github.com/RafaelRiS/RafaelRiS/blob/main/dist/github-contribution-grid-snake.svg)
 
 <p align="center"> 
