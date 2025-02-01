@@ -26,7 +26,6 @@
 
 ![Snake animation](https://github.com/RafaelRiS/RafaelRiS/blob/main/dist/github-contribution-grid-snake.svg)
 
-
 <p align="center"> 
   <div align="center">Visitor count</div>
   <div align="center">
