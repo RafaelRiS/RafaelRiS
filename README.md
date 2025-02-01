@@ -22,11 +22,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rafaelris&show_icons=true" />
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 </picture>
+
+</a>
+<a href="https://github.com/rafaelris/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelris&repo=convoychat" />
+</a>
 
 ![Snake animation](https://github.com/RafaelRiS/RafaelRiS/blob/main/dist/github-contribution-grid-snake.svg)
 
