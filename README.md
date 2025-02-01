@@ -10,7 +10,7 @@
 
 <br/>
 
-![Snake animation](https://github.com/RafaelRiS/)
+![Snake animation](https://github.com/RafaelRiS)
 
 <div align="center">
     <picture align="center">
