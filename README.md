@@ -12,12 +12,12 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=rafaelris&show_icons=true&theme=catppuccin_mocha"
+    srcset="https://github-readme-stats.vercel.app/api?username=rafaelris&show_icons=true&dark"
     media="(prefers-color-scheme: catppuccin_mocha)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=rafaelris&show_icons=true"
-    media="(prefers-color-scheme: catppuccin_mocha), (prefers-color-scheme: catppuccin_mocha)"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=rafaelris&show_icons=true" />
 </picture>
