@@ -13,15 +13,15 @@
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=rafaelris&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: catppuccin_latte)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=rafaelris&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=rafaelris&show_icons=true" />
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <a href="https://github.com/rafaelris/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelris&repo=github-readme-stats" />
 </picture>
 
 ![Snake animation](https://github.com/RafaelRiS/RafaelRiS/blob/main/dist/github-contribution-grid-snake.svg)
