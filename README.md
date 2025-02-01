@@ -10,18 +10,20 @@
 
 <br/>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=rafaelris&show_icons=true&one_dark_pro"
-    media="(prefers-color-scheme: one_dark_pro)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=rafaelris&show_icons=true"
-    media="(prefers-color-scheme: one_dark_pro), (prefers-color-scheme: one_dark_pro)"
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelris&hide_progress=true)
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelris&show_icons=true" />
-</picture>
+<a href="https://github.com/rafaelris/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelris" />
+</a>
+<a href="https://github.com/rafaelris/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelris&layout=compact&langs_count=8&card_width=320" />
+</a>
+<a href="https://github.com/rafaelris/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelris&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/rafaelris/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelris&repo=convoychat" />
+</a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelris&hide_progress=true)
 
 ![Snake animation](https://github.com/RafaelRiS/RafaelRiS/blob/main/dist/github-contribution-grid-snake.svg)
 
