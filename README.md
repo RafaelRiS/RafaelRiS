@@ -22,6 +22,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rafaelris&show_icons=true" />
 </picture>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 ![Snake animation](https://github.com/RafaelRiS/RafaelRiS/blob/main/dist/github-contribution-grid-snake.svg)
 
 <p align="center"> 
