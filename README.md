@@ -20,7 +20,7 @@
     <a _href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=10347495" target="_blank" style="display: block" align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=10347495&image_size=auto&color_scheme=dark" width="771" height="auto">
-        <img alt="Dashboard stats of @Niefee" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=10347495&image_size=auto&color_scheme=dark" width="771" height="auto">
+        <img alt="Dashboard stats of @RafaelRiS" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=10347495&image_size=auto&color_scheme=dark" width="771" height="auto">
       </picture>
     </a>
 </div>
@@ -29,9 +29,9 @@
 
 <div align="center">
     <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafaelRiS/rafaelris/master/assets/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafaelRiS/rafaelris/master/assets/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RafaelRiS/rafaelris/master/assets/github-contribution-grid-snake.svg">
     </picture>
 </div>
 
@@ -39,6 +39,6 @@
 <p align="center"> 
   <div align="center">Visitor count</div>
   <div align="center">
-    <img src="https://profile-counter.glitch.me/Niefee/count.svg"/>
+    <img src="https://profile-counter.glitch.me/RafaelRiS/count.svg"/>
   </div> 
 </p>
