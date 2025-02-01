@@ -19,9 +19,6 @@
     srcset="https://github-readme-stats.vercel.app/api?username=rafaelris&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelris&show_icons=true" />
-  <a href="https://github.com/rafaelris/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelris&repo=github-readme-stats" />
 </picture>
 
 ![Snake animation](https://github.com/RafaelRiS/RafaelRiS/blob/main/dist/github-contribution-grid-snake.svg)
