@@ -16,12 +16,6 @@
 <a href="https://github.com/rafaelris/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelris&layout=compact&langs_count=8&card_width=320" />
 </a>
-<a href="https://github.com/rafaelris/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelris&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/rafaelris/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelris&repo=convoychat" />
-</a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelris&hide_progress=true)
 
