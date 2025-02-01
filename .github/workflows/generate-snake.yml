@@ -1,0 +1,38 @@
+name: Generate Snake Animation
+
+on:
+  # Run automatically every 12 hours
+  schedule:
+    - cron: "30 8,23 * * *"
+  
+  # Allows manual triggering of the workflow
+  workflow_dispatch:
+  
+  # Rerun the program when pushing
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        id: snake-animation
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Commit and Push
+        uses: EndBug/add-and-commit@v9
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          add: 'dist/*'
+          message: 'Generate Github contribution heatmap animation'
