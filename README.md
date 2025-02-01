@@ -17,7 +17,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelris&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-![shadow_blue_repo](https://github-readme-stats.vercel.app/api/pin/?username=rafaelris&repo=github-readme-stats&cache_seconds=86400&theme=shadow_blue)
+![github_dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark)
 
 ![Snake animation](https://github.com/RafaelRiS/RafaelRiS/blob/main/dist/github-contribution-grid-snake.svg)
 
