@@ -17,7 +17,7 @@
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=rafaelris&show_icons=true"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: one_dark_pro), (prefers-color-scheme: one_dark_pro)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=rafaelris&show_icons=true" />
 </picture>
