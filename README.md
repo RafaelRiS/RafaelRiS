@@ -1,38 +1,6 @@
 ### Olá/ Hi there 👋
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    @keyframes typing {
-      0% {
-        width: 0;
-      }
-      100% {
-        width: 100%;
-      }
-    }
-
-    .rotated-text {
-      display: inline-block;
-      font-size: 50px;
-      transform: rotate(90deg); /* Rotaciona o emoji 90 graus */
-      animation: typing 3s steps(5) 1s forwards;
-      white-space: nowrap;
-    }
-  </style>
-</head>
-<body>
-
-  <div class="rotated-text">:)</div>
-
-</body>
-</html>
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2356FFD9&size=18&duration=6000&center=true&vCenter=true&width=600&lines=%F0%9F%99%82)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2356FFD9&size=18&duration=6000&center=true&vCenter=true&width=600&lines=Hello+World+%3A%29)](https://git.io/typing-svg)<br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2356FFD9&size=18&center=true&vCenter=true&width=570&lines=Hello+Devs%2C+my+name+is+Rafael%2C+welcome+to+my+profile!+)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2356FFD9&size=18&duration=6000&center=true&vCenter=true&width=600&lines=Ol%C3%A1+Devs%2C+me+chamo+Rafael%2C+sejam+bem-vindos+ao+meu+perfil!+)](https://git.io/typing-svg)
 
