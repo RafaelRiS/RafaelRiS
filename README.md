@@ -1,5 +1,8 @@
 ### Olá/ Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2356FFD9&size=18&duration=6000&center=true&vCenter=true&width=600&lines=Hello+World+%3C3)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2356FFD9&size=18&center=true&vCenter=true&width=600&lines=Ol%C3%A1+Devs%2C+me+chamo+Rafael%2C+seja+bem-vindo+ao+meu+perfil!+)](https://git.io/typing-svg)
+
 <br/>
 
 - 🌱 Meu nome é Rafael, bem-vindo(a) ao meu perfil GitHub/ My name is Rafael, welcome to my GitHub profile. 
