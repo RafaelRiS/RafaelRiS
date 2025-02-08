@@ -43,7 +43,7 @@
   </div> 
 </p>
 ___________________________
-⭐️ Deixe uma estrela se você gostou do meu perfil ;) | Leave a star if you liked my profile ;)
+⭐️ Deixe uma estrela se você gostou do meu perfil ;) | ⭐️ Leave a star if you liked my profile ;)
 ___________________________
 
 ##
