@@ -43,6 +43,8 @@
   </div> 
 </p>
 
-⭐️ Deixe uma estrela se você gostou do meu perfil!
+
+⭐️ Deixe uma estrela se você gostou do meu perfil ;) | Leave a star if you liked my profile ;)
+
 
 Credit: [Niefee](https://github.com/Niefee) & [Rafaballerini](https://github.com/rafaballerini).
