@@ -42,9 +42,9 @@
     <img src="https://profile-counter.glitch.me/RafaelRiS/count.svg"/>
   </div> 
 </p>
-__________________________
+_________________________
 ⭐️ Deixe uma estrela se você gostou do meu perfil ;) | ⭐️ Leave a star if you liked my profile ;)
-__________________________
+_________________________
 
 ##
 
