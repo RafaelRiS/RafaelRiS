@@ -42,8 +42,10 @@
     <img src="https://profile-counter.glitch.me/RafaelRiS/count.svg"/>
   </div> 
 </p>
-__________________________
+____________________________
 ⭐️ Deixe uma estrela se você gostou do meu perfil ;) | Leave a star if you liked my profile ;)
-__________________________
+____________________________
+
+##
 
 Credit: [Niefee](https://github.com/Niefee) & [Rafaballerini](https://github.com/rafaballerini).
