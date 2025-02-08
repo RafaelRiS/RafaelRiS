@@ -1,8 +1,8 @@
 ### Olá/ Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2356FFD9&size=18&duration=6000&center=true&vCenter=true&width=600&lines=Hello+World+%3A%29+|+Ol%C3%A1+Mundo+%3A%29)](https://git.io/typing-svg)<br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2356FFD9&size=18&center=true&vCenter=true&width=554&lines=Hello+Devs%2C+my+name+is+Rafael%2C+welcome+to+my+profile!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2356FFD9&size=18&duration=6000&center=true&vCenter=true&width=600&lines=Ol%C3%A1+Mundo+%3A%29+|+Hello+World+%3A%29)](https://git.io/typing-svg)<br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2356FFD9&size=18&duration=6000&center=true&vCenter=true&width=600&lines=Ol%C3%A1+Devs%2C+me+chamo+Rafael%2C+sejam+bem-vindos+ao+meu+perfil!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2356FFD9&size=18&center=true&vCenter=true&width=554&lines=Hello+Devs%2C+my+name+is+Rafael%2C+welcome+to+my+profile!+)](https://git.io/typing-svg)
 
 <br/>
 
@@ -42,5 +42,7 @@
     <img src="https://profile-counter.glitch.me/RafaelRiS/count.svg"/>
   </div> 
 </p>
+
+⭐️ Deixe uma estrela se você gostou do meu perfil!
 
 Credit: [Niefee](https://github.com/Niefee) & [Rafaballerini](https://github.com/rafaballerini).
