@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2356FFD9&size=18&duration=6000&center=true&vCenter=true&width=600&lines=Ol%C3%A1+Mundo+%3A%29+|+Hello+World+%3A%29)](https://git.io/typing-svg)<br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2356FFD9&size=18&duration=6000&center=true&vCenter=true&width=600&lines=Ol%C3%A1+Devs%2C+me+chamo+Rafael%2C+sejam+bem-vindos+ao+meu+perfil!+)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2356FFD9&size=18&duration=5950&center=true&vCenter=true&width=554&lines=Hello+Devs%2C+my+name+is+Rafael%2C+welcome+to+my+profile!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2356FFD9&size=18&duration=6200&center=true&vCenter=true&width=554&lines=Hello+Devs%2C+my+name+is+Rafael%2C+welcome+to+my+profile!+)](https://git.io/typing-svg)
 
 <br/>
 
