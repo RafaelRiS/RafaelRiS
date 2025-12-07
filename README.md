@@ -1,4 +1,4 @@
-### Olá/ Hi there 👋
+### Oi/ Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2356FFD9&size=18&duration=10000&center=true&vCenter=true&width=600&lines=Ol%C3%A1+Devs%2C+me+chamo+Rafael%2C+bem-vindos+ao+meu+perfil!+)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2356FFD9&size=18&duration=10000&center=true&vCenter=true&width=600&lines=Hello+Devs%2C+my+name+is+Rafael%2C+welcome+to+my+profile!+)](https://git.io/typing-svg)
