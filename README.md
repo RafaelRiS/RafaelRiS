@@ -1,7 +1,7 @@
 ### Olá/ Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2356FFD9&size=18&duration=10000&center=true&vCenter=true&width=600&lines=Ol%C3%A1+Mundo+%3A%29+|+Hello+World+%3A%29)](https://git.io/typing-svg)<br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2356FFD9&size=18&duration=10000&center=true&vCenter=true&width=600&lines=O1%C3%A1+Devs%2C+me+chamo+Rafael%2C+bem-vindos+ao+meu+perfil!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2356FFD9&size=18&duration=10000&center=true&vCenter=true&width=600&lines=Ol%C3%A1+Devs%2C+me+chamo+Rafael%2C+bem-vindos+ao+meu+perfil!+)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2356FFD9&size=18&duration=10000&center=true&vCenter=true&width=600&lines=Hello+Devs%2C+my+name+is+Rafael%2C+welcome+to+my+profile!+)](https://git.io/typing-svg)
 
 <br/>
@@ -31,7 +31,7 @@
  
 <div> 
   <a href = "mailto:faelcee@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/rafaelribeiroti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/rafaelribeiroti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"></a> 
 </div>
 
 ![Snake animation](https://github.com/RafaelRiS/RafaelRiS/blob/main/dist/github-contribution-grid-snake.svg)
