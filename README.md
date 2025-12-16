@@ -38,10 +38,9 @@
 <p align="center"> 
   <div align="center">Visitor count</div>
   <div align="center">
-    <img src="https://profile-counter.glitch.me/RafaelRiS/count.svg"/>
+    <img src="https://komarev.com/ghpvc/?username=RafaelRiS&color=blue" alt="Visitor Count"/>
   </div> 
 </p>
-
 ##
 
 _________________________
