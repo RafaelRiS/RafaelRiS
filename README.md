@@ -18,21 +18,7 @@
 - ⚡ Eu sei Python / I know Python  
 - 😄 Um pouco de Java, Kotlin, C++, etc. / A little bit of Java, Kotlin, C++, etc.  
 - 🔥 Não pretendo parar de aprender nunca / I never intend to stop learning  
-- 💖 Curto codar / I’m into coding  
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/rafaelris">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=rafaelris&show_icons=true&theme=default">
-  </a>
-
-  <a href="https://github.com/rafaelris">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelris&layout=compact&langs_count=8">
-  </a>
-</div>
-
-<br/>
+- 💖 Curto codar / I’m into coding
 
 <div align="center" style="display: inline_block">
   <img alt="Python" height="30" width="40"
